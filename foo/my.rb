@@ -1,3 +1,3 @@
-puts "Hello My name is alfred."
+puts "Hello My name is Sue."
 
 puts "Ruby is awesome."
